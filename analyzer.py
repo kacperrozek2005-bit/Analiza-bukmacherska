@@ -4,10 +4,10 @@ import requests
 from datetime import datetime
 
 # ==================== KONFIGURACJA KLUCZY API ====================
-APISPORTS_KEY = fabfcbfe4763db2cd50bdd222e33d637
-ODDS_API_KEY = beda5816bff5043839eec9127d5ed4a0
-TELEGRAM_BOT_TOKEN = HTTP API:8866199770:AAHtgJOkSyxNzJiTExkrNC7abrPdA1c_rAs
-TELEGRAM_CHAT_ID = 6326526350
+APISPORTS_KEY = "fabfcbfe4763db2cd50bdd222e33d637"
+ODDS_API_KEY = "beda5816bff5043839eec9127d5ed4a0"
+TELEGRAM_BOT_TOKEN = "8866199770:AAHtgJOkSyxNzJiTExkrNC7abrPdA1c_rAs"
+TELEGRAM_CHAT_ID = "6326526350"
 
 HEADERS_APISPORTS = {
     "x-apisports-key": APISPORTS_KEY
